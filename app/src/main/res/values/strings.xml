@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HEX calc</string>
+    <string name="author">Author: Salavat Dautov</string>
+    <string name="сreation_date">Сreation date: April 6, 2020</string>
+    <string name="calculate">calculate</string>
+    <string name="about">About</string>
+</resources>
